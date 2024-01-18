@@ -1,4 +1,4 @@
-# Language Learning Game (Multi-Language)
+# Language Learning Game (Turkish-Deutsch)
 
 This Python program is a language learning game designed to enhance vocabulary skills in Turkish and Deutsch. It offers various gameplay modes, allowing users to practice translating words in both directions and introduces a random play option. Additionally, users can contribute to the word lists by adding new words in both languages.
 
